@@ -110,11 +110,11 @@ Built an ML pipeline to recommend and rank best-fit influencers for brand campai
 ## 📌 Popular repositories
 
 <p>
-  <a href="https://github.com/palakm5/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=REPO-NAME-1&hide_border=true" alt="RAG++" /></a>
-  <a href="https://github.com/palakm5/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=REPO-NAME-2&hide_border=true" alt="ShellSense" /></a>
+  <a href="https://github.com/palakm5/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=InsureAI.git&hide_border=true" alt="RAG++" /></a>
+  <a href="https://github.com/palakm5/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=healthcare-rag-system.git&hide_border=true" alt="ShellSense" /></a>
 </p>
 <p>
-  <a href="https://github.com/palakm5/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=REPO-NAME-3&hide_border=true" alt="Insurance Policy Intelligence Assistant" /></a>
+  <a href="https://github.com/palakm5/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=linux-ai.git&hide_border=true" alt="Insurance Policy Intelligence Assistant" /></a>
 </p>
 
 ---
