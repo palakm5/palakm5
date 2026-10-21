@@ -100,11 +100,7 @@ Built an ML pipeline to recommend and rank best-fit influencers for brand campai
 
 ---
 
-## 🧩 Problem solving
 
-300+ DSA problems solved on [LeetCode](https://leetcode.com/u/palakm_5) and [Codeforces](https://codeforces.com/profile/palak_m).
-
----
 
 ## 📌 Popular repositories
 
