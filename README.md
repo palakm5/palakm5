@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About me
+## About me
 
 - 🎓 B.Tech CSE (Data Science) @ **VIT Pune** · 📍 Pune, India
 - 🔭 Building applied AI systems: **RAG**, **agentic workflows**, and the **evaluation and safety layers** that make them trustworthy
