@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/palakm5">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Aspiring+AI%2FML+Engineer;Building+RAG+%26+agentic+AI+systems;Evaluation+%26+safety+layers+for+trustworthy+AI;Passionate+about+Indian+healthcare+AI" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Aspiring+AI%2FML+Engineer;Building+RAG+%26+agentic+AI+systems;Evaluation+%26+safety+layers+for+trustworthy+AI" alt="Typing animation" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 ## 🔭 Featured projects
 
-### [RAG++: Multi-Domain India-Specific Medical RAG System](https://github.com/palakm5/healthcare-rag-system.git)
+### [RAG++: Multi-Domain India-Specific Medical RAG System](https://github.com/palakm5/healthcare-rag-system)
 Production-minded RAG over four heterogeneous Indian medical and health data sources, benchmarked against a standard RAG baseline.
 - Hybrid retrieval (BM25 + vector) with cross-encoder re-ranking and metadata pre-filtering
 - Guardrails: relevance-threshold fallback and an LLM-as-verifier faithfulness check
@@ -62,7 +62,7 @@ Production-minded RAG over four heterogeneous Indian medical and health data sou
 
 `Python` `LangChain` `ChromaDB` `PostgreSQL/Supabase` `FastAPI` `RAGAS`
 
-### [ShellSense: AI-Powered Linux Operations Assistant](https://github.com/palakm5/linux-ai.git) *(ongoing)*
+### [ShellSense: AI-Powered Linux Operations Assistant](https://github.com/palakm5/linux-ai) *(ongoing)*
 An agentic CLI that diagnoses Linux issues and executes safe fixes from natural language using a plan-act-reflect loop.
 - Three-layer safety system: model self-review, independent LLM review, regex validation
 - Whitelisted, parameterized command execution, so no arbitrary command generation
@@ -71,7 +71,7 @@ An agentic CLI that diagnoses Linux issues and executes safe fixes from natural 
 
 `Python` `Ollama` `LangChain/LangGraph` `Docker`
 
-### [Insurance Policy Intelligence Assistant: AI Claims Helper](https://github.com/palakm5/InsureAI.git)
+### [Insurance Policy Intelligence Assistant: AI Claims Helper](https://github.com/palakm5/InsureAI)
 A chatbot that answers health insurance policy questions with page-cited answers and confidence labels.
 - Claim workflow: eligibility check, document checklist, OCR validation of uploaded bills
 - Semantic search matches messy bill wording to the right policy clause, with exact quotes as proof
@@ -110,11 +110,11 @@ Built an ML pipeline to recommend and rank best-fit influencers for brand campai
 ## 📌 Popular repositories
 
 <p>
-  <a href="https://github.com/palakm5/REPO-NAME-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=InsureAI.git&hide_border=true" alt="RAG++" /></a>
-  <a href="https://github.com/palakm5/REPO-NAME-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=healthcare-rag-system.git&hide_border=true" alt="ShellSense" /></a>
+  <a href="https://github.com/palakm5/healthcare-rag-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=healthcare-rag-system&hide_border=true" alt="RAG++" /></a>
+  <a href="https://github.com/palakm5/linux-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=linux-ai&hide_border=true" alt="ShellSense" /></a>
 </p>
 <p>
-  <a href="https://github.com/palakm5/REPO-NAME-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=linux-ai.git&hide_border=true" alt="Insurance Policy Intelligence Assistant" /></a>
+  <a href="https://github.com/palakm5/InsureAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=InsureAI&hide_border=true" alt="Insurance Policy Intelligence Assistant" /></a>
 </p>
 
 ---
