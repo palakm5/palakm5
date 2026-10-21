@@ -52,7 +52,7 @@
 
 ## 🔭 Featured projects
 
-### [RAG++: Multi-Domain India-Specific Medical RAG System](https://github.com/palakm5/REPO-NAME)
+### [RAG++: Multi-Domain India-Specific Medical RAG System](https://github.com/palakm5/healthcare-rag-system.git)
 Production-minded RAG over four heterogeneous Indian medical and health data sources, benchmarked against a standard RAG baseline.
 - Hybrid retrieval (BM25 + vector) with cross-encoder re-ranking and metadata pre-filtering
 - Guardrails: relevance-threshold fallback and an LLM-as-verifier faithfulness check
@@ -62,7 +62,7 @@ Production-minded RAG over four heterogeneous Indian medical and health data sou
 
 `Python` `LangChain` `ChromaDB` `PostgreSQL/Supabase` `FastAPI` `RAGAS`
 
-### [ShellSense: AI-Powered Linux Operations Assistant](https://github.com/palakm5/REPO-NAME) *(ongoing)*
+### [ShellSense: AI-Powered Linux Operations Assistant](https://github.com/palakm5/linux-ai.git) *(ongoing)*
 An agentic CLI that diagnoses Linux issues and executes safe fixes from natural language using a plan-act-reflect loop.
 - Three-layer safety system: model self-review, independent LLM review, regex validation
 - Whitelisted, parameterized command execution, so no arbitrary command generation
@@ -71,7 +71,7 @@ An agentic CLI that diagnoses Linux issues and executes safe fixes from natural 
 
 `Python` `Ollama` `LangChain/LangGraph` `Docker`
 
-### [Insurance Policy Intelligence Assistant: AI Claims Helper](https://github.com/palakm5/REPO-NAME)
+### [Insurance Policy Intelligence Assistant: AI Claims Helper](https://github.com/palakm5/InsureAI.git)
 A chatbot that answers health insurance policy questions with page-cited answers and confidence labels.
 - Claim workflow: eligibility check, document checklist, OCR validation of uploaded bills
 - Semantic search matches messy bill wording to the right policy clause, with exact quotes as proof
