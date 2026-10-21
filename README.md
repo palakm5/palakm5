@@ -18,8 +18,7 @@
 
 - 🎓 B.Tech CSE (Data Science) @ **VIT Pune** · 📍 Pune, India
 - 🔭 Building applied AI systems: **RAG**, **agentic workflows**, and the **evaluation and safety layers** that make them trustworthy
-- 🏥 Especially interested in **Indian healthcare data and clinical AI**
-- 🎯 Preparing to apply for an **MS in CS** with an AI/ML specialization
+- 🧩 Problem solver: 300+ DSA problems solved on LeetCode and Codeforces
 - 💬 Ask me about: RAG evaluation, hybrid search and re-ranking, safe agent design
 
 <details>
