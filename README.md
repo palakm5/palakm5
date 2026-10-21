@@ -1,8 +1,52 @@
-# Hi, I'm Palak 👋
+<h1 align="center">Palak Mundada</h1>
 
-**Aspiring AI/ML engineer** · B.Tech CSE (Data Science) @ VIT Pune · Pune, India
+<p align="center">
+  <a href="https://github.com/palakm5">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0A66C2&center=true&vCenter=true&width=640&lines=Aspiring+AI%2FML+Engineer;Building+RAG+%26+agentic+AI+systems;Evaluation+%26+safety+layers+for+trustworthy+AI;Passionate+about+Indian+healthcare+AI" alt="Typing animation" />
+  </a>
+</p>
 
-I build applied AI systems: retrieval-augmented generation, agentic workflows, and the evaluation and safety layers that make them trustworthy. I'm especially interested in **Indian healthcare data and clinical AI**, and I'm preparing to apply for an MS in CS with an AI/ML specialization.
+<p align="center">
+  <a href="https://www.linkedin.com/in/palak-mundada-aa6b19267"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:palakpmundada55@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=palakm5&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 👩‍💻 About me
+
+- 🎓 B.Tech CSE (Data Science) @ **VIT Pune** · 📍 Pune, India
+- 🔭 Building applied AI systems: **RAG**, **agentic workflows**, and the **evaluation and safety layers** that make them trustworthy
+- 🏥 Especially interested in **Indian healthcare data and clinical AI**
+- 🎯 Preparing to apply for an **MS in CS** with an AI/ML specialization
+- 💬 Ask me about: RAG evaluation, hybrid search and re-ranking, safe agent design
+
+<details>
+<summary>⚡ What I'm working on right now (click to expand)</summary>
+
+<br>
+
+- **ShellSense**: an agentic Linux operations assistant with a three-layer safety system *(ongoing)*
+- **RAG++**: improving guardrails and benchmarking against a standard RAG baseline
+- Growing my portfolio of applied AI projects
+
+</details>
+
+---
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,c,postgres,mongodb,fastapi,react,docker,git,pandas,numpy,sklearn" alt="tech stack icons" />
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-6E56CF)
 
 ---
 
@@ -39,21 +83,6 @@ A chatbot that answers health insurance policy questions with page-cited answers
 ---
 
 ## 🛠 Skills
-
-### Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,c,postgres,mongodb,fastapi,react,docker,git,pandas,numpy,sklearn" alt="tech stack icons" />
-</p>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-Evaluation-6E56CF)
-
-### By category
 
 | | |
 |---|---|
