@@ -27,7 +27,7 @@
 <br>
 
 - **ShellSense**: an agentic Linux operations assistant with a three-layer safety system *(ongoing)*
-- **RAG++**: improving guardrails and benchmarking against a standard RAG baseline
+- **InsurAI**: working on the evaluation of my insurance policy assistant, benchmarking it against a keyword-search baseline
 - Growing my portfolio of applied AI projects
 
 </details>
