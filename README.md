@@ -113,7 +113,7 @@ Built an ML pipeline to recommend and rank best-fit influencers for brand campai
   <a href="https://github.com/palakm5/linux-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=linux-ai&hide_border=true" alt="ShellSense" /></a>
 </p>
 <p>
-  <a href="https://github.com/palakm5/InsureAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=palakm5&repo=InsureAI&hide_border=true" alt="Insurance Policy Intelligence Assistant" /></a>
+  <a href="https://github.com/palakm5/InsureAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=somanirohan&repo=InsureAI&hide_border=true" alt="Insurance Policy Intelligence Assistant" /></a>
 </p>
 
 ---
