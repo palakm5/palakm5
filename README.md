@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/palak-mundada-aa6b19267"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:palakpmundada55@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=palakm5&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+  
 
 ---
 
