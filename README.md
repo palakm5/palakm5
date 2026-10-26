@@ -113,16 +113,7 @@ Built an ML pipeline to recommend and rank best-fit influencers for brand campai
 
 ---
 
-## 📊 GitHub stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=palakm5&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakm5&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-<img src="https://streak-stats.demolab.com/?user=palakm5&hide_border=true" alt="GitHub streak" />
-
----
 
 ## 📫 Let's connect
 
